@@ -1,2 +1,2 @@
 # UnReliant-Energy
-A windmill generator with indicator lights.
+Slides of a windmill generator and its circuit with indicator lights.
